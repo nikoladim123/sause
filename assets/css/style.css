@@ -42,6 +42,7 @@ header{
   margin-top: 3.6284vw;
   transition: 2s;
   transform: scale(0);
+  width: 11.6594vw;
 }
 
 .whiteGradAnim{
