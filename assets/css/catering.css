@@ -123,7 +123,7 @@ header{
 
 .leftTextInsideBox h3{
   margin: 0;
-  font-size: 1.261vw;
+  font-size: 1.361vw;
   font-family: "Roboto-Regular";
   color: white;
   font-weight: 100;
@@ -193,7 +193,8 @@ header{
   background: linear-gradient(45deg, rgba(220,35,3,1) 0%, rgba(255,114,57,1) 56%, rgba(255,114,57,1) 100%);
   /* background: radial-gradient(ellipse at center, rgba(147,151,238,1) 0%, rgba(83,88,236,1) 100%); */
   /* box-shadow: 0px 0px 208px -19px rgba(255,255,255,1); */
-  box-shadow: 0px 0px 208px -19px rgba(255,225,153,1);
+  /* box-shadow: 0px 0px 208px -19px rgba(0,0,0,1); */
+  box-shadow: 0px 0px 289px -103px rgba(0,0,0,1);
 }
 
 .questionContainer h2{
