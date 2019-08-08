@@ -119,13 +119,14 @@ header{
   font-family: "Roboto-BoldItalic";
   color: #ffc119;
   margin-bottom: 0.15vw;
+  display: none;
 }
 
 .leftTextInsideBox h3{
   margin: 0;
-  font-size: 1.361vw;
+  font-size: 1.83vw;
   font-family: "Roboto-Regular";
-  color: white;
+  color: #ffc119;
   font-weight: 100;
   margin-bottom: 1.4vw;
 }
